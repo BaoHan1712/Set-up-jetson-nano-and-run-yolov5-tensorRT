@@ -1,3 +1,5 @@
+<h2>Install anaconda</h2>
+
 first I will use SDK Manager to flash
 
 `Here I will run on Jetson Nano, jetpack 4x`
