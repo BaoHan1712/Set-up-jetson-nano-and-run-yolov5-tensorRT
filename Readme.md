@@ -28,6 +28,8 @@ Check ipV4 use :
 
 ```ifconfig```
 
+see inet. You need it
+
 next:
 
 ```sudo apt update```
