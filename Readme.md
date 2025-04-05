@@ -50,6 +50,7 @@ next:
         <img src="https://img.youtube.com/vi/WA7vjorjfaQ/0.jpg" alt="Watch the video on YouTube">
     </a>
 </h4>
+<h2>Setup CUDA ARCH BIN AND Opencv version</h2>
 
 <h2>YOLOv5 TensorRT on JETSON NANO </h2>
 
