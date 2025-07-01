@@ -45,6 +45,8 @@ next:
 ```jtop```
 <h3> Build OPENCV with CUDA support on Jetson Nano or Xavier</h3>
 
+<h3>  Để build opencv cuda cho jetson orin nano thì check trong jtop xem version arrch cuda và version của opencv mà cài</h3>
+
 <h4>
     <a href="https://www.youtube.com/watch?v=WA7vjorjfaQ&list=PLWw98q-Xe7iF6gMaE7Yv8ATbe0z78O9yG&index=8" target="_blank">
         <img src="https://img.youtube.com/vi/WA7vjorjfaQ/0.jpg" alt="Watch the video on YouTube">
